@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "name": "Dmitry",
+      "password": "secretpassword",
+      "id": 1
+    },
+    {
+      "name": "sdf",
+      "password": "sdfsdfsdfsdf",
+      "id": 2
+    },
+    {
+      "name": "sfsd",
+      "password": "sdfsdf",
+      "id": 3
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "Address": "1st street",
+      "type": "MNC"
+    },
+    {
+      "id": 2,
+      "name": "ABC Ltd",
+      "email": "abc@in.com1",
+      "phone": "8787878787",
+      "Address": "no 5, 5th street,\nchennai,\nIndai",
+      "type": "MNC"
+    },
+    {
+      "id": 3,
+      "name": "Dr.TNR Infotech",
+      "email": "tnr@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 4,
+      "name": "Nihira Techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "NT Techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 6,
+      "name": "NT Technologies",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 7,
+      "name": "sdf",
+      "email": "fsdfd@gm.com",
+      "phone": "sdfsdf",
+      "Address": "sdfsdf",
+      "type": "MNC"
+    },
+    {
+      "id": 8,
+      "name": "sdfdsd",
+      "email": "dfgdf@f.com",
+      "phone": "sdfsdf",
+      "Address": "sdfsgdfg",
+      "type": "MNC"
+    },
+    {
+      "id": 9,
+      "name": "sdfdsd",
+      "email": "dfgdf@f.com",
+      "phone": "sdfsdf",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 10,
+      "name": "sdfdsd",
+      "email": "dfgdf@f.com",
+      "phone": "sdfsdf",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 11,
+      "name": "sdfdsd",
+      "email": "dfgdf@f.com",
+      "phone": "sdfsdf",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 12,
+      "name": "sdfdsd",
+      "email": "dfgdf@f.com",
+      "phone": "sdfsdf",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 13,
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 14,
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "Address": "",
+      "type": "MNC"
+    },
+    {
+      "id": 15,
+      "name": "NT Infotech ",
+      "email": "n@in.com",
+      "phone": "79999999",
+      "Address": "",
+      "type": "MNC"
+    }
+  ]
+}
